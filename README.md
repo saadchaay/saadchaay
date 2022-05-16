@@ -45,3 +45,12 @@ Here are some ideas to get you started:
  <p align="center" >
 - 💬 Connect? lets get social 👉🏼  <a href="https://twitter.com/Ssaad_chaay"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg"  > </a>
 </p>
+
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=bornmay&&show_icons=true&theme=radical"/>
+  </a>
+
+</p>
+
+<br />
