@@ -42,5 +42,6 @@ Here are some ideas to get you started:
  <h5 align="center">
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
   </h5>
- 
+ <p align="center" >
 - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/Ssaad_chaay)
+</p>
