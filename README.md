@@ -42,3 +42,10 @@ Here are some ideas to get you started:
  <h5 align="center">
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
   </h5>
+  
+  
+<br />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<p align="center">
+  <h3> I'm 22 years old Self-taught Full-Stack developer from Morocco.</h3>
+</p>
